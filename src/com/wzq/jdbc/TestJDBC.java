@@ -1,7 +1,7 @@
 package com.wzq.jdbc;
 
 /**
- * push test!
+ * pull test!
  */
 public class TestJDBC {
     public static void main(String[] args) {
@@ -10,5 +10,6 @@ public class TestJDBC {
         System.out.println("master test!");
         System.out.println("hot-fix test!");
         System.out.println("push test!");
+        System.out.println("pull test!");
     }
 }
